@@ -5,7 +5,7 @@ const VehicleCard=()=>{
   return(
     <div className="card">
       <div className="v-image">
-        <img src="./images/vehicle1.jpg" alt="vehicle1"></img>
+        <img src="./images/vehicle2.jpg" alt="vehicle1"></img>
       </div>
       <div className="v-details">
       </div>
