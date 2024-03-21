@@ -1,0 +1,18 @@
+/* navbar1.css */
+
+.nav1-main {
+    color: rgb(17, 16, 16); 
+    padding: 15px; 
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    border: 1px black solid;
+    background-color: aliceblue;
+    height:45px;
+  }
+  
+  .nav1-main h1 {
+    margin: 0;
+  }
+  
